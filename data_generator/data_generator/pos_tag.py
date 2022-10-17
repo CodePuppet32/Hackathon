@@ -1,15 +1,14 @@
-
 import nltk
 import re
 from .util.StringUtil import normalise
-
 
 ALLOWED = [
     "NNP", "NNPS"
 ]
 IGNORED = [
-   "highlights", "vs", "versus", "v", "year", "league"
+    "highlights", "vs", "versus", "v", "year", "league"
 ]
+
 
 def get_spoiler_free_text(text):
     tagged = nltk.pos_tag(nltk.word_tokenize(text))
@@ -44,7 +43,3 @@ if __name__ == "__main__":
     for s in S_LIST:
         t = get_spoiler_free_text(s)
         print(f'{s} ====== {t}')
-
-
-
-

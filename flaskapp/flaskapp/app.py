@@ -80,8 +80,6 @@ def youtubeData(search_str, mock=False, spoiler_free=False):
         items.extend(response.json()['items'])
 
     result = list()
-    titles = [item["snippet"]["title"] for item in items]
-    predicted_titles = predict(titles)
 
     for item in items:
         if item.get("id") and item["id"].get("videoId") and item.get("snippet"):
@@ -89,6 +87,9 @@ def youtubeData(search_str, mock=False, spoiler_free=False):
             is_spoiler = 0
             spoilerfree_title = ''
             if spoiler_free:
+                titles = [item["snippet"]["title"] for item in items]
+                predicted_titles = predict(titles)
+
                 if predicted_titles.get(title):
                     is_spoiler = 1
                     spoilerfree_title = get_spoiler_free_text(title)

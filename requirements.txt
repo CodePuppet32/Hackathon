@@ -122,3 +122,6 @@ Werkzeug==2.2.2
 widgetsnbextension==4.0.3
 wrapt==1.14.1
 zipp==3.9.0
+
+Flask~=2.2.2
+Faker~=15.1.1

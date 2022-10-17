@@ -1,0 +1,197 @@
+England men
+England women
+Northern Ireland men
+Northern Ireland women
+Scotland men
+Scotland women
+Wales men
+Wales women
+Republic of Ireland men
+AFC Bournemouth
+Everton
+Newcastle United
+Arsenal
+Fulham
+Nottingham Forest
+Aston Villa
+Leeds United
+Southampton
+Brentford
+Leicester City
+Tottenham Hotspur
+Brighton & Hove Albion
+Liverpool
+West Ham United
+Chelsea
+Manchester City
+Wolverhampton Wanderers
+Crystal Palace
+Manchester United
+Scottish Premiership
+Aberdeen
+Hibernian
+Rangers
+Celtic
+Kilmarnock
+Ross County
+Dundee United
+Livingston
+St Johnstone
+Heart of Midlothian
+Motherwell
+St Mirren
+Championship
+Birmingham City
+Hull City
+Rotherham United
+Blackburn Rovers
+Luton Town
+Sheffield United
+Blackpool
+Middlesbrough
+Stoke City
+Bristol City
+Millwall
+Sunderland
+Burnley
+Norwich City
+Swansea City
+Cardiff City
+Preston North End
+Watford
+Coventry City
+Queens Park Rangers
+West Bromwich Albion
+Huddersfield Town
+Reading
+Wigan Athletic
+Accrington Stanley
+Derby County
+Oxford United
+Barnsley
+Exeter City
+Peterborough United
+Bolton Wanderers
+Fleetwood Town
+Plymouth Argyle
+Bristol Rovers
+Forest Green Rovers
+Portsmouth
+Burton Albion
+Ipswich Town
+Port Vale
+Cambridge United
+Lincoln City
+Sheffield Wednesday
+Charlton Athletic
+Milton Keynes Dons
+Shrewsbury Town
+Cheltenham Town
+Morecambe
+Wycombe Wanderers
+AFC Wimbledon
+Gillingham
+Rochdale
+Barrow
+Grimsby Town
+Salford City
+Bradford City
+Harrogate Town
+Stevenage
+Carlisle United
+Hartlepool United
+Stockport County
+Colchester United
+Leyton Orient
+Sutton United
+Crawley Town
+Mansfield Town
+Swindon Town
+Crewe Alexandra
+Newport County
+Tranmere Rovers
+Doncaster Rovers
+Northampton Town
+Walsall
+Aldershot Town
+Eastleigh
+Solihull Moors
+Altrincham
+Gateshead
+Southend United
+Barnet
+FC Halifax Town
+Torquay United
+Boreham Wood
+Maidenhead United
+Wealdstone
+Bromley
+Maidstone United
+Woking
+Chesterfield
+Notts County
+Wrexham
+Dagenham & Redbridge
+Oldham Athletic
+Yeovil Town
+Dorking Wanderers
+Scunthorpe United
+York City
+Scottish Championship
+Arbroath
+Greenock Morton
+Partick Thistle
+Ayr United
+Hamilton Academical
+Queen's Park
+Cove Rangers
+Inverness Caledonian Thistle
+Raith Rovers
+Dundee
+Airdrieonians
+Falkirk
+Montrose
+Alloa Athletic
+FC Edinburgh
+Peterhead
+Clyde
+Kelty Hearts
+Queen of the South
+Dunfermline
+Albion Rovers
+East Fife
+Stenhousemuir
+Annan Athletic
+Elgin City
+Stirling Albion
+Bonnyrigg Rose
+Forfar Athletic
+Stranraer
+Dumbarton
+Bordeaux
+Frankfurt
+Napoli
+Lyon
+Hoffenheim
+Roma
+Marseille
+RB Leipzig
+Atletico Madrid
+Monaco
+Schalke
+Barcelona
+PSG
+AC Milan
+Real Betis
+Rennes
+Atalanta
+Real Madrid
+Bayer Leverkusen
+Inter Milan
+Sevilla
+Bayern Munich
+Juventus
+Valencia
+Borussia Dortmund
+Lazio
+Villarreal

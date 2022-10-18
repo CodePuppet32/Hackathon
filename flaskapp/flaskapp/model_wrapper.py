@@ -98,4 +98,6 @@ class ModelWrapper(ModelTraining):
 
 
 obj = ModelWrapper(model_path="./trained_model.h5", tokenizer_path="./trained_model_tokenizer.h5")
+sentence = "India wins against Australia by 3 goals"
 obj.start_model_res_endpoint(8000)
+print(obj.predict_spoiler(sentence, proba=True))

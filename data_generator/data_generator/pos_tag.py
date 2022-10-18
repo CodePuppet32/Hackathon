@@ -1,28 +1,34 @@
+
 import nltk
 import re
 from .util.StringUtil import normalise
+
 
 ALLOWED = [
     "NNP", "NNPS"
 ]
 IGNORED = [
-    "highlights", "vs", "versus", "v", "year", "league"
+   "highlights", "vs", "versus", "v", "year", "league"
 ]
 
 
 def get_spoiler_free_text(text):
     tagged = nltk.pos_tag(nltk.word_tokenize(text))
     new_s_list = []
+
+
     for s, t in tagged:
-        if t in ALLOWED or s.lower() in IGNORED:
-            new_s_list.append(s)
-
-            continue
-
         n_s = normalise(s)
         if all(x.isdigit() for x in n_s.split(" ")):
             new_s = re.sub('\d', 'x', s)
             new_s_list.append(new_s)
+            continue
+
+        if t in ALLOWED or s.lower() in IGNORED:
+            new_s_list.append(s)
+            continue
+
+
 
     return ' '.join(new_s_list)
 
@@ -43,3 +49,7 @@ if __name__ == "__main__":
     for s in S_LIST:
         t = get_spoiler_free_text(s)
         print(f'{s} ====== {t}')
+
+
+
+
